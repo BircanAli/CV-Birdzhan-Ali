@@ -1,2 +1,2 @@
 # CV-Birdzhan-Ali
-this is my cv
+live at https://cv-birdzhan-ali.netlify.app/
